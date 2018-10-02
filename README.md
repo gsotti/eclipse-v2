@@ -1,6 +1,8 @@
 Eclipse v2
 =========
 
+**UPDATE TO USE IN PLATFORMIO AND WS2812 INSTEAD OF ARDUINOIDE AND APA102**
+
 [Demo Videos](https://youtu.be/OM4Ad-Sr1Ro?list=PLUYGVM-2vDxLnqGd-mG_AMGEECwHlfd5e):
 
 [![Demo Videos](http://img.youtube.com/vi/dCE2dl4IW_E/0.jpg)](https://youtu.be/OM4Ad-Sr1Ro?list=PLUYGVM-2vDxLnqGd-mG_AMGEECwHlfd5e)
